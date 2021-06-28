@@ -30,4 +30,4 @@ Racontez une courte histoire amusante sur votre vie.
 Résumez votre histoire amusante en une phrase courte.  
   
 
-<< [précédent] (https://github.com/Evamel/markdown_challenge) || irisrenauld || [suivant] (https://github.com/Jeremielopo/markdown-challenge) >>
+*[<< précédent](https://github.com/Evamel/markdown_challenge)* || irisrenauld || *[suivant>>] (https://github.com/Jeremielopo/markdown-challenge)*
