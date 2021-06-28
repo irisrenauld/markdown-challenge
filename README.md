@@ -2,7 +2,7 @@
 
 *Tu ne sais pas à quel point tu es fort jusqu'au jour où être fort devient la seule option.*  
   
-![moi] (https://scontent.fbru5-1.fna.fbcdn.net/v/t1.15752-9/205363373_578291943575607_7857627548136186331_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_ohc=hKPZwZaNh0UAX9bmNHI&_nc_ht=scontent.fbru5-1.fna&oh=0879c0560696c0c3f54b5d4fcb259d52&oe=60DEBE05)  
+![moi]*(https://scontent.fbru5-1.fna.fbcdn.net/v/t1.15752-9/205363373_578291943575607_7857627548136186331_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_ohc=hKPZwZaNh0UAX9bmNHI&_nc_ht=scontent.fbru5-1.fna&oh=0879c0560696c0c3f54b5d4fcb259d52&oe=60DEBE05)*  
   
 ## Je suis quelqu' un de créative!  
   Anniversaire : 01.03 | Couleur préférée : Roug
